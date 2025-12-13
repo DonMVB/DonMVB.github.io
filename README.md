@@ -3,7 +3,7 @@
 
 Here you will find a wide variety of Blue Team focused commands and tutorials from "Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder". BTHb:INRE was first published in 2014, and is getting a major update in 2025, and soon to be on the O'Reilly Books online platform. (All material (c) 2014, 2025 Don Murdoch). 
 
-1. [Essential Pattern Matching Tutorial for Grep ‐ Incident Response]https://github.com/DonMVB/BTHbIR/wiki/Essential-Pattern-Matching-Tutorial-for-Grep-%E2%80%90-Incident-Response)
+1. [Essential Pattern Matching Tutorial for Grep ‐ Incident Response](https://github.com/DonMVB/BTHbIR/wiki/Essential-Pattern-Matching-Tutorial-for-Grep-%E2%80%90-Incident-Response)
 2. [Windows 10 11 Auto Start Extensibility Points (ASEPs)](https://github.com/DonMVB/BTHbIR/wiki/Windows-10-11-Auto-Start-Extensibility-Points-%28ASEPs%29)
 3. [Windows Process Explorer IR Guide (Windows 11)](https://github.com/DonMVB/BTHbIR/wiki/Windows-Process-Explorer-IR-Guide-%28Windows-11%29)
 4. [tcpdump and tshark for the Incident Responder](https://github.com/DonMVB/BTHbIR/wiki/tcpdump-and-tshark-for-the-Incident-Responder) and [wireshark for the Incident Responder](https://github.com/DonMVB/BTHbIR/wiki/wireshark-for-the-Incident-Responder)
