@@ -50,3 +50,4 @@ For Sysmon, there are several scripts forthcoming.
 1. There is an XML [configuration file](https://github.com/DonMVB/BTHbIR/blob/main/Utilties/swift-with-net.xml ) which has Event ID 3 (network traffic) events enabled. This is a copy of the Swift on Security XML config, but w/ the extra spice of Event ID 3 enabled. 
 
 This code and repository are copyright 2025 by Don Murdoch.
+<meta name="google-site-verification" content="G25OI3rdZ3HStNV9_eOurEsZPgrXp5QK29WfTStYMNw" />
